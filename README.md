@@ -26,7 +26,7 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/depura-el-codigo-python/depura-el-codigo-con-python
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQEey0a2L_C2fg/learning-public-crop_675_1200/0/1693832559312?e=1694444400&v=beta&t=vGf59iIZwFkuVwmLUsiCax2GJf_d1F4H85X6F90la-o
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQEey0a2L_C2fg/learning-public-crop_675_1200/0/1693832559312?e=1695891600&v=beta&t=cWj87lSeayxWoneYV57lWy5eh-RMGY9GexuqtG23kFk
 
 
 [1]: # (End of ES-Instruction ###############################################################################################)
